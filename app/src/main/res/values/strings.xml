@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">TheCat</string>
+    <string name="facebook_app_id">482464456072911</string> <string name="fb_login_protocol_scheme">fb482464456072911</string>
+    <string name="navigation_drawer_open">open drawer</string>
+    <string name="navigation_drawer_close">close drawer</string>
+
+
 </resources>
