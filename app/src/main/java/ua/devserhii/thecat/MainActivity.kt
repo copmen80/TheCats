@@ -36,7 +36,7 @@ class MainActivity : AppCompatActivity() {
 
     private lateinit var category: List<Category>
 
-    val SUB_ID = "SubId"
+    private val SUB_ID = "SubId"
     lateinit var sPref: SharedPreferences
 
     var typeRequest = 0
