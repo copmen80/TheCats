@@ -1,4 +1,4 @@
-package ua.devserhii.thecat
+package ua.devserhii.thecat.api
 
 import retrofit2.Retrofit
 import retrofit2.adapter.rxjava2.RxJava2CallAdapterFactory

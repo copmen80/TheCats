@@ -1,4 +1,4 @@
-package ua.devserhii.thecat.adapter
+package ua.devserhii.thecat.adapter.ui
 
 /**
  * Created by Serhii Boiko on 24.01.2021.

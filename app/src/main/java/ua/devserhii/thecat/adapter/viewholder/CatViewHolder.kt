@@ -5,7 +5,7 @@ import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
 import kotlinx.android.synthetic.main.example_image_item.view.*
 import ua.devserhii.thecat.R
-import ua.devserhii.thecat.adapter.CatUiModel
+import ua.devserhii.thecat.adapter.ui.CatUiModel
 
 class CatViewHolder(
     itemView: View,

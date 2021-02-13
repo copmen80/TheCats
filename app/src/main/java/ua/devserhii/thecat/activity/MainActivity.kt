@@ -1,4 +1,4 @@
-package ua.devserhii.thecat
+package ua.devserhii.thecat.activity
 
 import android.content.Intent
 import android.content.SharedPreferences
@@ -26,8 +26,10 @@ import kotlinx.android.synthetic.main.activity_main.*
 import kotlinx.android.synthetic.main.app_bar_main.*
 import kotlinx.android.synthetic.main.nav_header_main.*
 import org.json.JSONObject
+import ua.devserhii.thecat.api.CatApiClient
+import ua.devserhii.thecat.R
 import ua.devserhii.thecat.adapter.CatAdapter
-import ua.devserhii.thecat.adapter.CatUiModel
+import ua.devserhii.thecat.adapter.ui.CatUiModel
 import ua.devserhii.thecat.adapter.NavigateAdapter
 import ua.devserhii.thecat.model.Category
 

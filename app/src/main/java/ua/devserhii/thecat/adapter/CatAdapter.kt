@@ -3,6 +3,8 @@ package ua.devserhii.thecat.adapter
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
+import ua.devserhii.thecat.adapter.ui.CatUiModel
+import ua.devserhii.thecat.adapter.ui.UiModel
 import ua.devserhii.thecat.adapter.viewholder.CatViewHolder
 
 

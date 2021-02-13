@@ -1,4 +1,4 @@
-package ua.devserhii.thecat
+package ua.devserhii.thecat.activity
 
 import android.os.Bundle
 import android.util.Log
@@ -10,6 +10,8 @@ import io.reactivex.android.schedulers.AndroidSchedulers
 import io.reactivex.disposables.CompositeDisposable
 import io.reactivex.schedulers.Schedulers
 import kotlinx.android.synthetic.main.fullscreen_image.*
+import ua.devserhii.thecat.api.CatApiClient
+import ua.devserhii.thecat.R
 
 class FullscreenImage : AppCompatActivity() {
     private val compositeDisposable = CompositeDisposable()

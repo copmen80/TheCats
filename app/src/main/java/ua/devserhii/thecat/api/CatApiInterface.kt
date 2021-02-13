@@ -1,4 +1,4 @@
-package ua.devserhii.thecat
+package ua.devserhii.thecat.api
 
 import io.reactivex.Single
 import retrofit2.http.*
